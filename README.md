@@ -15,7 +15,6 @@
 | [`data/VNAT_International_Arrivals_2025.xlsx`](data/VNAT_International_Arrivals_2025.xlsx) | Macro dataset — VNAT international arrivals by country × month, 2025 |
 | [`data/VNAT_Tableau_Data.xlsx`](data/VNAT_Tableau_Data.xlsx) | Long-format VNAT data restructured for Tableau |
 | [`Detailed_Project_Excel_File.xlsx`](Detailed_Project_Excel_File.xlsx) | Full project Excel file with all sheets - pivot tables, visuals, raw, and clean datasets |
-| [`Presentation Slides.pptx`](Presentation Slides.pptx) | Full PowerPoint Presentation slideshow created to accompany the meeting with the stakeholder |
 
 ---
 
@@ -118,7 +117,7 @@ India (wedding/MICE demand) and Russia (rerouted tours post-suspension) are emer
 | Asset | Link |
 |-------|------|
 | Excel Database | [View on SharePoint](https://purdue0-my.sharepoint.com/:x:/g/personal/nguy1462_purdue_edu/IQBURPkndi0HSLbdBjILJkcuAQ6elPsq5K-rbgGmlmiZG2Q?e=5Hb9by) |
-| Presentation Slides | [View on SharePoint](https://purdue0-my.sharepoint.com/:p:/g/personal/nguy1462_purdue_edu/IQBcbo2S1dO6QYF7EHv4TEyNAenRjOXM6OKkCT0QJOFzDLk?e=1wa9ED) |
+| Full Presentation Slides | [View on SharePoint](https://purdue0-my.sharepoint.com/:p:/g/personal/nguy1462_purdue_edu/IQBcbo2S1dO6QYF7EHv4TEyNAenRjOXM6OKkCT0QJOFzDLk?e=1wa9ED) |
 | Stakeholder Meeting Recording | [Watch on Google Drive](https://drive.google.com/file/d/11N9kEV_vHFABT3HaQroR4Q_5E27vxMds/view?usp=sharing) |
 | Interactive Inbound Visitors by Source Markets Tableau Viz | [View and Interact in Tableau Public](https://public.tableau.com/app/profile/hoang.nguyen2871/viz/InternationalVisitorstoVietnambyMajorSourceMarkets2025/Dashboard1) |
 
