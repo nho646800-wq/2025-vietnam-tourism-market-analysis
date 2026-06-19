@@ -11,11 +11,11 @@
 
 | File | Description |
 |------|-------------|
-| [`report/Vietnam_Tourism_Market_Analysis_Report.md`](./report/Vietnam_Tourism_Market_Analysis_Report.md) | ✅ Full report — readable directly on GitHub |
-| [`report/Vietnam_Tourism_Market_Analysis_Report.docx`](./report/Vietnam_Tourism_Market_Analysis_Report.docx) | 📥 Word version — download to open |
-| [`data/VNAT_International_Arrivals_2025.xlsx`](./data/VNAT_International_Arrivals_2025.xlsx) | Macro dataset — VNAT international arrivals by country × month, 2025 |
-| [`data/VNAT_Tableau_Data.xlsx`](./data/VNAT_Tableau_Data.xlsx) | Long-format VNAT data restructured for Tableau |
-| [`assets/Seasonality_vs_Markets_Slide.png`](./assets/Seasonality_vs_Markets_Slide.png) | Presentation slide — stacked area chart of travelers per country per month |
+| [`Vietnam_Tourism_Market_Analysis_Report.md`](Vietnam_Tourism_Market_Analysis_Report.md) | Full report |
+| [`data/VNAT_International_Arrivals_2025.xlsx`](data/VNAT_International_Arrivals_2025.xlsx) | Macro dataset — VNAT international arrivals by country × month, 2025 |
+| [`data/VNAT_Tableau_Data.xlsx`](data/VNAT_Tableau_Data.xlsx) | Long-format VNAT data restructured for Tableau |
+| [`Detailed_Project_Excel_File.xlsx`](Detailed_Project_Excel_File.xlsx) | Full project Excel file with all sheets - pivot tables, visuals, raw, and clean datasets |
+| [`Presentation Slides.pptx`](Presentation Slides.pptx) | Full PowerPoint Presentation slideshow created to accompany the meeting with the stakeholder |
 
 ---
 
@@ -39,7 +39,7 @@ Vietnam's tourism sector hit **21.5 million international arrivals in 2025** (+2
 | Dataset | Source | Type | Method |
 |---------|--------|------|--------|
 | Customer booking transactions | [Kaggle – Vietnam Tour Bookings](https://www.kaggle.com/datasets/ngchno/vietnam-tour-bookings) | Micro-level synthetic dataset | Downloaded |
-| International arrivals by market | [VNAT Official Statistics](https://vietnamtourism.gov.vn/en/statistic/international) | Macro government data | Scraped via Java (in collaboration with a CS major) |
+| International arrivals by market | [VNAT Official Statistics](https://vietnamtourism.gov.vn/en/statistic/international) | Macro government data | Scraped via Java |
 
 ---
 
@@ -77,8 +77,6 @@ Vietnam's tourism sector hit **21.5 million international arrivals in 2025** (+2
 | Southeast Asia (combined) | ~13% | Dec–Jan |
 | Major European nations | ~5% | March–April |
 
-![Seasonality vs Markets](./assets/Seasonality_vs_Markets_Slide.png)
-
 ### Customer Segments
 - **Families** and **young professionals** make up the bulk of the market
 - **Students** have the highest satisfaction rate: **66.24%** gave a 4–5/5 rating
@@ -115,24 +113,29 @@ India (wedding/MICE demand) and Russia (rerouted tours post-suspension) are emer
 
 ---
 
-## 📎 Additional Links
+## Additional Links
 
 | Asset | Link |
 |-------|------|
-| 📊 Excel Database | [View on SharePoint](https://purdue0-my.sharepoint.com/:x:/g/personal/nguy1462_purdue_edu/IQBURPkndi0HSLbdBjILJkcuAQ6elPsq5K-rbgGmlmiZG2Q?e=5Hb9by) |
-| 📽️ Presentation Slides | [View on SharePoint](https://purdue0-my.sharepoint.com/:p:/g/personal/nguy1462_purdue_edu/IQBcbo2S1dO6QYF7EHv4TEyNAenRjOXM6OKkCT0QJOFzDLk?e=1wa9ED) |
-| 🎥 Stakeholder Meeting Recording | [Watch on Google Drive](https://drive.google.com/file/d/11N9kEV_vHFABT3HaQroR4Q_5E27vxMds/view?usp=sharing) |
+| Excel Database | [View on SharePoint](https://purdue0-my.sharepoint.com/:x:/g/personal/nguy1462_purdue_edu/IQBURPkndi0HSLbdBjILJkcuAQ6elPsq5K-rbgGmlmiZG2Q?e=5Hb9by) |
+| Presentation Slides | [View on SharePoint](https://purdue0-my.sharepoint.com/:p:/g/personal/nguy1462_purdue_edu/IQBcbo2S1dO6QYF7EHv4TEyNAenRjOXM6OKkCT0QJOFzDLk?e=1wa9ED) |
+| Stakeholder Meeting Recording | [Watch on Google Drive](https://drive.google.com/file/d/11N9kEV_vHFABT3HaQroR4Q_5E27vxMds/view?usp=sharing) |
+| Interactive Inbound Visitors by Source Markets Tableau Viz | [View and Interact in Tableau Public](https://public.tableau.com/app/profile/hoang.nguyen2871/viz/InternationalVisitorstoVietnambyMajorSourceMarkets2025/Dashboard1) |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
-`Microsoft Excel` · `Tableau` · `Java (web scraping)` · `VNAT Open Data` · `Kaggle`
+`Microsoft Excel` · `Tableau` · `Java (web scraping)` · `VNAT Open Data` · `Kaggle` · `Microsoft PowerPoint`
 
 ---
 
-## 👤 Author
+## Authors
 
 **Hoang Nguyen**  
 Business Analytics · Purdue University  
 nguy1462@purdue.edu
+
+**Minh Quang Nguyen**  
+Computer Science · Purdue University  
+nguy1426@purdue.edu
